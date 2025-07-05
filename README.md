@@ -34,18 +34,23 @@ The app allows users to add, delete, and manage tasks with optional features lik
 
 ```bash
 git clone https://github.com/AkshanshTyagi-2003/personal-task-tracker.git
-
+```
 2. **Navigate to the project folder:**
 
 ```bash
 cd personal-task-tracker
-
+```
 3. **Install dependencies:**
 
 ```bash
 npm install
+```
 
 4. **Run the application:**
 
 ```bash
 npm start
+```
+
+The app will automatically open in your browser at:
+http://localhost:3000/
