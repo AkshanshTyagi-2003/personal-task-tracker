@@ -75,6 +75,15 @@ https://AkshanshTyagi-2003.github.io/personal-task-tracker
 
 ## Screenshots
 
+![Screenshot (92)](https://github.com/user-attachments/assets/17dea827-6295-4147-a3f5-46947e490a94)
+---
 
+
+![Screenshot (91)](https://github.com/user-attachments/assets/82fb403b-5ad0-4810-95fc-9dc00e3fff60)
+---
+
+
+![Screenshot (90)](https://github.com/user-attachments/assets/1e03b542-263f-4a5f-a124-1f5e3b72267e)
 
 ---
+
