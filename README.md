@@ -6,7 +6,7 @@ The app allows users to add, delete, and manage tasks with optional features lik
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add new tasks
 - Delete tasks
@@ -19,7 +19,7 @@ The app allows users to add, delete, and manage tasks with optional features lik
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - React.js
 - Tailwind CSS
@@ -28,7 +28,7 @@ The app allows users to add, delete, and manage tasks with optional features lik
 
 ---
 
-## 📦 Installation Instructions
+## Installation Instructions
 
 1. **Clone the Repository:**
 
@@ -54,3 +54,21 @@ npm start
 
 The app will automatically open in your browser at:
 http://localhost:3000/
+
+---
+
+
+## Live Demo
+
+The app is deployed and accessible at:
+https://AkshanshTyagi-2003.github.io/personal-task-tracker
+
+---
+
+## Notes
+
+- Data is persisted in the browser’s localStorage.
+- No backend or real authentication is implemented.
+- Works on desktop and mobile devices.
+
+---
